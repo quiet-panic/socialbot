@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ChatManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Chats>
+    <Chat>
+      <ChatId>0</ChatId>
+      <ChatCode>MAIN</ChatCode>
+      <ChatLink>https://t.me/+QcUkHU8YYdgxNjgy</ChatLink>
+    </Chat>
+    <Chat>
+      <ChatId>1</ChatId>
+      <ChatCode>CAREER</ChatCode>
+      <ChatLink>https://t.me/+QcUkHU8YYdgxNjgy</ChatLink>
+    </Chat>
+    <Chat>
+      <ChatId>2</ChatId>
+      <ChatCode>COFFEE</ChatCode>
+      <ChatLink>https://t.me/+QcUkHU8YYdgxNjgy</ChatLink>
+    </Chat>
+  </Chats>
+</ChatManager>

@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<BlankManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Blanks>
+    <UserBlank>
+      <ID>0</ID>
+      <Questions>
+        <QuestionBase xsi:type="QuestionText">
+          <QuestionText>Имя и фамилия.</QuestionText>
+          <ColumnName>Name</ColumnName>
+          <Completed>false</Completed>
+        </QuestionBase>
+        <QuestionBase xsi:type="QuestionText">
+          <QuestionText>Добавь ссылку на соцсеть - Фейсбук или Линкедин.</QuestionText>
+          <ColumnName>Facebook or Linkedin</ColumnName>
+          <Completed>false</Completed>
+        </QuestionBase>
+        <QuestionBase xsi:type="QuestionText">
+          <QuestionText>Кто тебя порекомендовал?</QuestionText>
+          <ColumnName>Recommender Name</ColumnName>
+          <Completed>false</Completed>
+        </QuestionBase>
+        <QuestionBase xsi:type="QuestionText">
+          <QuestionText>Добавь ссылку на его соцсеть</QuestionText>
+          <ColumnName>Recommender FB or Linkedin</ColumnName>
+          <Completed>false</Completed>
+        </QuestionBase>
+        <QuestionBase xsi:type="QuestionText">
+          <QuestionText>Зачем тебе клуб?</QuestionText>
+          <ColumnName>Needs</ColumnName>
+          <Completed>false</Completed>
+        </QuestionBase>
+        <QuestionBase xsi:type="QuestionText">
+          <QuestionText>Чем ты можешь помочь участникам?</QuestionText>
+          <ColumnName>Useful skills</ColumnName>
+          <Completed>false</Completed>
+        </QuestionBase>
+      </Questions>
+      <Status>Inactive</Status>
+    </UserBlank>
+    <UserBlank>
+      <ID>1</ID>
+      <UserName>quiet_panic</UserName>
+      <Questions>
+        <QuestionBase xsi:type="QuestionText">
+          <ColumnName>Name</ColumnName>
+          <Completed>true</Completed>
+          <AnswerText>тест</AnswerText>
+        </QuestionBase>
+        <QuestionBase xsi:type="QuestionText">
+          <ColumnName>Facebook or Linkedin</ColumnName>
+          <Completed>true</Completed>
+        </QuestionBase>
+        <QuestionBase xsi:type="QuestionText">
+          <ColumnName>Recommender Name</ColumnName>
+          <Completed>true</Completed>
+        </QuestionBase>
+        <QuestionBase xsi:type="QuestionText">
+          <ColumnName>Recommender FB or Linkedin</ColumnName>
+          <Completed>true</Completed>
+        </QuestionBase>
+        <QuestionBase xsi:type="QuestionText">
+          <ColumnName>Needs</ColumnName>
+          <Completed>true</Completed>
+        </QuestionBase>
+        <QuestionBase xsi:type="QuestionText">
+          <ColumnName>Useful skills</ColumnName>
+          <Completed>true</Completed>
+        </QuestionBase>
+      </Questions>
+      <Status>Approved</Status>
+      <Description>Some long presentation text</Description>
+      <RowId>recgdJs2jPEqDuoM6</RowId>
+    </UserBlank>
+    <UserBlank>
+      <ID>915773672</ID>
+      <UserName>quiet_panic</UserName>
+      <Questions>
+        <QuestionBase xsi:type="QuestionText">
+          <QuestionText>Имя и фамилия.</QuestionText>
+          <ColumnName>Name</ColumnName>
+          <Completed>true</Completed>
+          <AnswerText>Ксения Ковшова</AnswerText>
+        </QuestionBase>
+        <QuestionBase xsi:type="QuestionText">
+          <QuestionText>Добавь ссылку на соцсеть - Фейсбук или Линкедин.</QuestionText>
+          <ColumnName>Facebook or Linkedin</ColumnName>
+          <Completed>true</Completed>
+          <AnswerText>https://www.facebook.com/profile.php?id=100010645243220&amp;mibextid=ZbWKwL</AnswerText>
+        </QuestionBase>
+        <QuestionBase xsi:type="QuestionText">
+          <QuestionText>Кто тебя порекомендовал?</QuestionText>
+          <ColumnName>Recommender Name</ColumnName>
+          <Completed>true</Completed>
+          <AnswerText>Екатерина Мицкевич</AnswerText>
+        </QuestionBase>
+        <QuestionBase xsi:type="QuestionText">
+          <QuestionText>Добавь ссылку на его соцсеть</QuestionText>
+          <ColumnName>Recommender FB or Linkedin</ColumnName>
+          <Completed>true</Completed>
+          <AnswerText>@MKatya13</AnswerText>
+        </QuestionBase>
+        <QuestionBase xsi:type="QuestionText">
+          <QuestionText>Зачем тебе клуб?</QuestionText>
+          <ColumnName>Needs</ColumnName>
+          <Completed>true</Completed>
+          <AnswerText>Тестирование бота</AnswerText>
+        </QuestionBase>
+        <QuestionBase xsi:type="QuestionText">
+          <QuestionText>Чем ты можешь помочь участникам?</QuestionText>
+          <ColumnName>Useful skills</ColumnName>
+          <Completed>true</Completed>
+          <AnswerText>Бот представлений</AnswerText>
+        </QuestionBase>
+      </Questions>
+      <Status>WaitForApprove</Status>
+    </UserBlank>
+  </Blanks>
+  <Admins />
+</BlankManager>

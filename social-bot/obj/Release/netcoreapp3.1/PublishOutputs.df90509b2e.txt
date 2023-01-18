@@ -1,0 +1,8 @@
+D:\Pet\social-bot\social-bot\social-bot\bin\Release\netcoreapp3.1\publish\social-bot.exe
+D:\Pet\social-bot\social-bot\social-bot\bin\Release\netcoreapp3.1\publish\social-bot.dll
+D:\Pet\social-bot\social-bot\social-bot\bin\Release\netcoreapp3.1\publish\social-bot.deps.json
+D:\Pet\social-bot\social-bot\social-bot\bin\Release\netcoreapp3.1\publish\social-bot.runtimeconfig.json
+D:\Pet\social-bot\social-bot\social-bot\bin\Release\netcoreapp3.1\publish\social-bot.pdb
+D:\Pet\social-bot\social-bot\social-bot\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
+D:\Pet\social-bot\social-bot\social-bot\bin\Release\netcoreapp3.1\publish\Telegram.Bot.dll
+D:\Pet\social-bot\social-bot\social-bot\bin\Release\netcoreapp3.1\publish\Telegram.Bot.Extensions.Polling.dll
